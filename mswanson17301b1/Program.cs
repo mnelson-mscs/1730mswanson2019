@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace mswanson1730ex1b
+namespace mswanson17301b1
 {
     static class Program
     {
