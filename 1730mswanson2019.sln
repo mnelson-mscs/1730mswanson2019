@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variableTest", "variableTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mswanson2a1", "mswanson2a1\mswanson2a1.csproj", "{52B6DCD1-F499-408D-BC0B-55F39DAF0BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mswanson2b1", "mswanson2b1\mswanson2b1.csproj", "{5BFADD2C-A87F-41D9-9D12-1B6E713575AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{52B6DCD1-F499-408D-BC0B-55F39DAF0BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52B6DCD1-F499-408D-BC0B-55F39DAF0BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52B6DCD1-F499-408D-BC0B-55F39DAF0BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFADD2C-A87F-41D9-9D12-1B6E713575AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFADD2C-A87F-41D9-9D12-1B6E713575AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFADD2C-A87F-41D9-9D12-1B6E713575AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFADD2C-A87F-41D9-9D12-1B6E713575AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
