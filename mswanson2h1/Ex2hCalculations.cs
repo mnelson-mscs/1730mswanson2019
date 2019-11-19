@@ -206,21 +206,10 @@ namespace mswanson2h1
 
             try
             {
-                int a = 1;
-                string b = "b";
-
-                if (charA.Contains('p'))
+                if (charA.Contains("pioneer"))
                 {
-                    a = charA.IndexOf("p");
-
-                    if (charA.Contains("pioneer"))
-                    {
-                        b = charA.Substring(a, 7);
-                    }
-                }
-
-                if (b == "pioneer")
                     result = "Found";
+                }
                 else
                     result = "Not found";
             }
